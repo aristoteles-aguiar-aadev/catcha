@@ -26,6 +26,9 @@ defineProps({
   
 </template>
 
+
+<script setup></script>
+
 <style scoped>
 h1 {
   font-weight: 600;
